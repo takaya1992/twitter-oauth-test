@@ -1,0 +1,12 @@
+{
+    "name": "takaya/twitter-oauth-test",
+    "authors": [
+        {
+            "name": "takaya",
+            "email": "tky.c10ver@gmail.com"
+        }
+    ],
+    "require": {
+        "themattharris/tmhOAuth": "dev-master"
+    }
+}
